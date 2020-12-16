@@ -1,7 +1,6 @@
 ---
-title: Updates
+title: Updateses
 meta:
-  description: Desc
+  description: ""
   title: Test Updates Title
 ---
-
